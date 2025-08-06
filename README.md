@@ -24,8 +24,8 @@ A powerful command-line tool for managing macOS system services, supporting both
 
 ```bash
 # Clone the repository
-git clone https://github.com/sw3do/service-manager.git
-cd service-manager
+git clone https://github.com/sw3do/macos-service-manager.git
+cd macos-service-manager
 
 # Build the project
 cargo build --release
@@ -37,7 +37,7 @@ cargo install --path .
 ### Using Cargo
 
 ```bash
-cargo install --git https://github.com/sw3do/service-manager.git
+cargo install --git https://github.com/sw3do/macos-service-manager.git
 ```
 
 ## 📖 Usage
@@ -155,8 +155,8 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ```bash
 # Clone the repository
-git clone https://github.com/sw3do/service-manager.git
-cd service-manager
+git clone https://github.com/sw3do/macos-service-manager.git
+cd macos-service-manager  
 
 # Install dependencies
 cargo build
@@ -188,7 +188,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/sw3do/service-manager/issues) page
+1. Check the [Issues](https://github.com/sw3do/macos-service-manager/issues) page
 2. Create a new issue with detailed information
 3. Include your macOS version and error messages
 
